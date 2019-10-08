@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://lohphaepiu.mcsp.work/sitemap.xml
